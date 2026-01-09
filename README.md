@@ -10,10 +10,10 @@
 ---
 
 ## Skills & tools
-**Languages:** Python, Java, TypeScript, JavaScript, C#, Elixir, SQL, OCaml, Rust, Go, Kotlin, C/C++ 
-**Frameworks/Libraries:** React, React Native, Django, Node.js/Express, Phoenix 
-**AI/APIs:** OpenAI (LLM/Vision), Hugging Face, Clarifai, JWT, Axios  
-**Other:** PostgreSQL, MongoDB, Redis, Firebase, AWS, Docker, Unity
+- **Languages:** Python, Java, TypeScript, JavaScript, C#, Elixir, SQL, OCaml, Rust, Go, Kotlin, C/C++ 
+- **Frameworks/Libraries:** React, React Native, Django, Node.js/Express, Phoenix 
+- **AI/APIs:** OpenAI (LLM/Vision), Hugging Face, Clarifai, JWT, Axios  
+- **Other:** PostgreSQL, MongoDB, Redis, Firebase, AWS, Docker, Unity
 
 
 ---
