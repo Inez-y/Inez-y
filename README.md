@@ -3,9 +3,9 @@
 ---
 
 ## About Me
-- 🎯 Currently: studying computer science for bachelors
-- 🧠 Interests: learning how to write clean code, reading tech articles
-- 🌱 Learning: adopting automated tests, applying secure systems and more
+- Currently: studying computer science for bachelors
+- Interests: learning how to write clean code, reading tech articles
+- Learning: adopting automated tests, applying secure systems and more
 
 ---
 
@@ -19,9 +19,10 @@
 ---
 
 ## Projects
-- 🚀 [Fango](https://github.com/Jyyunrin/group5_softwareengineering) Image-to-text translation web app with Django/PostgreSQL/Redis and React/TypeScript, integrating OpenAI Vision + LLM APIs and JWT-based authentication
-- 🛠️ [Monopoly: Vancouver Housing Market](https://github.com/Inez-y/COMP4959_Project) Monopoly-style game under tight timelines with a large team using Elixir/Phoenix and AWS-hosted components.
-- ✨ [Allez!](https://katelylynn.itch.io/allez) Fencing game supporting single-player and multiplayer modes (PVP, split-screen, first-person).
+- 🐧 [Fango](https://github.com/Jyyunrin/group5_softwareengineering) Image-to-text translation web app with Django/PostgreSQL/Redis and React/TypeScript, integrating OpenAI Vision + LLM APIs and JWT-based authentication
+- 🏡 [Monopoly: Vancouver Housing Market](https://github.com/Inez-y/COMP4959_Project) Monopoly-style game under tight timelines with a large team using Elixir/Phoenix and AWS-hosted components.
+- 🤺 [Allez!](https://katelylynn.itch.io/allez) Fencing game supporting single-player and multiplayer modes (PVP, split-screen, first-person).
+- 🤖 [Check-In Bot](https://github.com/Inez-y/dailyCheckInBot/) Python check-in bot to automate BCIT Fitness Club check-in events, AWS and CA certificate are used.
 
 ...check more projects in my repository!
 
