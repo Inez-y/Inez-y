@@ -20,7 +20,7 @@
 
 ## Projects
 - 🐧 [Fango](https://github.com/Jyyunrin/group5_softwareengineering) Image-to-text translation web app with Django/PostgreSQL/Redis and React/TypeScript, integrating OpenAI Vision + LLM APIs and JWT-based authentication
-- - 🤺 [Allez!](https://katelylynn.itch.io/allez) Fencing game supporting single-player and multiplayer modes (PVP, split-screen, first-person).
+- 🤺 [Allez!](https://katelylynn.itch.io/allez) Fencing game supporting single-player and multiplayer modes (PVP, split-screen, first-person).
 - 🤖 [Check-In Bot](https://github.com/Inez-y/dailyCheckInBot/) Python check-in bot to automate BCIT Fitness Club check-in events, AWS and CA certificate are used.
 - 🏡 [Monopoly: Vancouver Housing Market](https://github.com/Inez-y/COMP4959_Project) Monopoly-style game under tight timelines with a large team using Elixir/Phoenix and AWS-hosted components.
 - 🐈 [Calculator](https://github.com/Inez-y/ocaml_catculator) Cat-Themed Programming Languagae in OCaml applying lexers, parsers, and interpreters.
