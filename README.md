@@ -19,7 +19,8 @@
 ---
 
 ## Projects
-- [Last Carriage](https://github.com/inez-y/lastcarriage) 2D action game built in C++ with SDL on top of a custom ECS-based game engine, with emphasis on clean engine design, modular systems, data-driven level loading, and maintainable code organization.
+- 🛍️ [E-commerce](https://github.com/Inez-y/e-commerce) A full-stack e-commerce platform with a customer storefront and admin dashboard, backed by an Express/TypeScript API, PostgreSQL/Prisma data model, JWT/RBAC auth, Redis/BullMQ background notifications, Docker Compose, Swagger docs, and automated integration plus Playwright E2E tests.
+- 🚆 [Last Carriage](https://github.com/inez-y/lastcarriage) 2D action game built in C++ with SDL on top of a custom ECS-based game engine, with emphasis on clean engine design, modular systems, data-driven level loading, and maintainable code organization.
 - 🐧 [Fango](https://github.com/Jyyunrin/group5_softwareengineering) Image-to-text translation web app with Django/PostgreSQL/Redis and React/TypeScript, integrating OpenAI Vision + LLM APIs and JWT-based authentication
 - 🤺 [Allez!](https://katelylynn.itch.io/allez) Fencing game supporting single-player and multiplayer modes (PVP, split-screen, first-person).
 - 🤖 [Check-In Bot](https://github.com/Inez-y/dailyCheckInBot/) Python check-in bot to automate BCIT Fitness Club check-in events, AWS and CA certificate are used.
