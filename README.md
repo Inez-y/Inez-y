@@ -1,11 +1,5 @@
 # Welcome to `Inez-y`'s Page!
 
----
-
-## About Me
-- Currently: studying computer science for bachelors
-- Interests: learning how to write clean code, reading tech articles
-- Learning: adopting automated tests, applying secure systems and more
 
 ---
 
@@ -26,7 +20,6 @@
 - 🤖 [Check-In Bot](https://github.com/Inez-y/dailyCheckInBot/) Python check-in bot to automate BCIT Fitness Club check-in events, AWS and CA certificate are used.
 - 🏡 [Monopoly: Vancouver Housing Market](https://github.com/Inez-y/COMP4959_Project) Monopoly-style game under tight timelines with a large team using Elixir/Phoenix and AWS-hosted components.
 - 🐈 [Calculator](https://github.com/Inez-y/ocaml_catculator) Cat-Themed Programming Languagae in OCaml applying lexers, parsers, and interpreters.
-- 💸 [Take My Stuff](https://github.com/Inez-y/TakeMyStuff.git) *(In-Progress)* E-commerse app that supports mobile and web.
 
 
 ...check more projects in my repository!
